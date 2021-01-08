@@ -1,0 +1,7 @@
+{
+  "hetznerApi": "YOUR HETZNER API KEY",
+  "myipbot": "https://bot.whatismyipaddress.com/",
+  "domain": "yourdomain.net",
+  "host": "hostname",
+  "ttl": 120
+}
